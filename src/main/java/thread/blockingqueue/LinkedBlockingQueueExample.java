@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- *
+ *链阻塞队列
  */
 public class LinkedBlockingQueueExample {
 
